@@ -1,5 +1,5 @@
 # Clustering-and-classification-of-celestial-bodies
-This project was realized for the Computational Statistics course, held at Università degli Studi di Milano Bicocca, A.Y. 2022/2023.
+This project was realized for the Computational Statistics course, held at Università degli Studi di Milano Bicocca, A.Y. 2023/2024.
 
 Team members:
 - Edoardo Olivieri ([GitHub](https://github.com/edoardo-olivieri), [Linkedin](https://www.linkedin.com/in/edoardo-olivieri-6b73a52a1))
